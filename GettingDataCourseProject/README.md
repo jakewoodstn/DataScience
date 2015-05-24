@@ -1,2 +1,10 @@
 #Getting and Cleaning Data
-Projects related to Getting and Cleaning data course within Johns Hopkins Data Science certificate program
+##Course Project
+
+###Usage:
+
+tidyData<-run_analysis()
+
+###Assumptions:
+
+All Data files should be included in the same directory as run_analysis.R
